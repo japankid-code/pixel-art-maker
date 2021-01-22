@@ -1,4 +1,10 @@
+
+
 # Pixel Art Maker Project
+
+## NOTE !!
+
+this repo has been archived, moved to [my site](japankid-code.github.io).
 
 ## Table of Contents
 
